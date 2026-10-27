@@ -1,7 +1,7 @@
 
-# 🚀 flashComm — Real-Time Chat Application
+# FlashCom — Real-Time Chat Application
 
-flashComm is a modern, full-stack real-time chat application built with **React, Node.js, Socket.IO, and MongoDB**.  
+FlashCom is a modern, full-stack real-time chat application built with **React, Node.js, Socket.IO, and MongoDB**.  
 It supports **secure authentication, real-time messaging, online presence, image sharing, notifications, and a responsive UI**.
 
 🔗 **Live Demo:** https://rapid-chat-app.vercel.app
@@ -85,7 +85,7 @@ Media → Cloudinary
 ## 📂 Project Structure
 
 ```
-flashComm/
+FlashCom/
 ├── backend/
 │   ├── src/
 │   │   ├── controllers/
@@ -138,8 +138,8 @@ VITE_SOCKET_URL=http://localhost:5001
 
 ### Clone Repo
 ```
-git clone https://github.com/your-username/flashComm.git
-cd flashComm
+git clone https://github.com/your-username/FlashCom.git
+cd FlashCom
 ```
 
 ### Backend Setup
