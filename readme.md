@@ -1,7 +1,7 @@
 
-# 🚀 Rapid Chat — Real-Time Chat Application
+# 🚀 flashComm — Real-Time Chat Application
 
-Rapid Chat is a modern, full-stack real-time chat application built with **React, Node.js, Socket.IO, and MongoDB**.  
+flashComm is a modern, full-stack real-time chat application built with **React, Node.js, Socket.IO, and MongoDB**.  
 It supports **secure authentication, real-time messaging, online presence, image sharing, notifications, and a responsive UI**.
 
 🔗 **Live Demo:** https://rapid-chat-app.vercel.app
@@ -85,7 +85,7 @@ Media → Cloudinary
 ## 📂 Project Structure
 
 ```
-chat-app/
+flashComm/
 ├── backend/
 │   ├── src/
 │   │   ├── controllers/
@@ -138,8 +138,8 @@ VITE_SOCKET_URL=http://localhost:5001
 
 ### Clone Repo
 ```
-git clone https://github.com/your-username/rapid-chat.git
-cd rapid-chat
+git clone https://github.com/your-username/flashComm.git
+cd flashComm
 ```
 
 ### Backend Setup

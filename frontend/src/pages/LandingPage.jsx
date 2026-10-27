@@ -123,7 +123,7 @@ export default function LandingPage() {
 
       {/* FOOTER */}
       <footer className="border-t border-base-300 py-6 text-center text-sm text-base-content/60">
-        © {new Date().getFullYear()} Realtime Chat App
+        © {new Date().getFullYear()} flashComm
       </footer>
     </div>
   );
